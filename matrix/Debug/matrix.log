@@ -1,0 +1,11 @@
+﻿  matrix.cpp
+d:\amyr\visual studio 2017\projetos\matrix\matrix\matrix.cpp(20): warning C4018: '<': incompatibilidade de signed/unsigned
+d:\amyr\visual studio 2017\projetos\matrix\matrix\matrix.cpp(21): warning C4018: '<': incompatibilidade de signed/unsigned
+d:\amyr\visual studio 2017\projetos\matrix\matrix\matrix.cpp(47): warning C4018: '<': incompatibilidade de signed/unsigned
+d:\amyr\visual studio 2017\projetos\matrix\matrix\matrix.cpp(54): warning C4018: '<': incompatibilidade de signed/unsigned
+d:\amyr\visual studio 2017\projetos\matrix\matrix\matrix.cpp(55): warning C4018: '<': incompatibilidade de signed/unsigned
+d:\amyr\visual studio 2017\projetos\matrix\matrix\matrix.h(112): warning C4018: '<': incompatibilidade de signed/unsigned
+  d:\amyr\visual studio 2017\projetos\matrix\matrix\matrix.h(102): note: ao compilar a função membro '<Desconhecido>' de classe <Desconhecido>
+  d:\amyr\visual studio 2017\projetos\matrix\matrix\matrix.cpp(40): note: consulte a referência à instanciação da função modelo 'matrix<int> matrix<int>::operator *(matrix<int> &)' que está sendo compilada
+  d:\amyr\visual studio 2017\projetos\matrix\matrix\matrix.cpp(15): note: consulte a referência à instanciação '<Desconhecido>' de classe <Desconhecido> que está sendo compilada
+  matrix.vcxproj -> D:\Amyr\Visual Studio 2017\Projetos\matrix\Debug\matrix.exe
